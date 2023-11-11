@@ -1,0 +1,17 @@
+
+# Ignore all dotfiles and directories by default
+/*
+
+# But don't ignore specific dotfiles and directories
+!/.zshrc
+!/.git*
+!/.oh-my-zsh
+!/.p10k*
+!/.tmux
+!/.ssh/authorized_keys
+!/.emacs
+!/.emacs.d
+/.emacs.d/elpa
+!/.CapsToggle.sh
+!/.xbindkeysrc
+

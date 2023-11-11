@@ -1,0 +1,10 @@
+
+# Ignore all dotfiles and directories by default
+/*
+
+# But don't ignore specific dotfiles and directories
+!/.zshrc
+!/.emacs
+!/.emacs.d/*
+!/.
+
