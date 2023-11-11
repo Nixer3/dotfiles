@@ -14,4 +14,4 @@
 /.emacs.d/elpa
 !/.CapsToggle.sh
 !/.xbindkeysrc
-
+!/powerlevel10k
